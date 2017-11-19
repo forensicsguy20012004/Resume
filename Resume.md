@@ -4,69 +4,59 @@
 
 <details><summary>Work Experience</summary><p>
 
-<details><summary>Nationwide Insurance</summary><p>
+<details><summary>Nationwide Insurance - [7/21/2014 - Current]</summary><p>
 
-   * 7/21/2014 - Current
      * Consultant - Project Architect (11/20/17 - Current)
      * Consultant - Engineering (1/1/15 - 11/20/17)
      * Consultant - Run Operations (7/21/14 - 1/1/15)
 </p></details> 
 
-<details><summary>Dedicated Technologies Inc</summary><p>
+<details><summary>Dedicated Technologies, Inc - [12/01/2013 - 07/21/2014]</summary><p>
 
-   * 12/01/2013 - 07/21/2014  
      * Consultant - SQL DBA
 </p></details>
 
-<details><summary>Nationwide Energy Partners</summary><p>
+<details><summary>Nationwide Energy Partners - [7/01/2013 - 12/01/2013]</summary><p>
 
-   * 7/01/2013 - 12/01/2013  
      * SQL DBA and Developer
 </p></details>
 
-<details><summary>Manley Deas Kochalski LLC</summary><p>
+<details><summary>Manley Deas Kochalski, LLC - [5/01/2012 - 7/01/2013]</summary><p>
 
-   * 5/01/2012 - 7/01/2013  
      * Senior Database Administrator
 </p></details>
 
-<details><summary>Columbus Bureau of Credit Columbus</summary><p>
+<details><summary>Columbus Bureau of Credit Columbus - [2/01/2011 - 5/01/2012]</summary><p>
 
-   * 2/01/2011 - 5/01/2012  
      * Database Administrator
 </p></details>
 
-<details><summary>Travis Central Appraisal District</summary><p>
+<details><summary>Travis Central Appraisal District - [8/01/2010 - 2/01/2011]</summary><p>
 
-   * 8/01/2010 - 2/01/2011  
      * Database Analyst
 </p></details>
 
-<details><summary>ScanData Systems,Inc</summary><p>
+<details><summary>ScanData Systems,Inc - [1/01/2006 - 7/01/2010]</summary><p>
 
-   * 1/01/2006 - 7/01/2010  
      * Logistician and Database Administrator
 </p></details>
 
-<details><summary>The Ohio State University</summary><p>
+<details><summary>The Ohio State University - [1/01/2003 - 1/01/2004]</summary><p>
 
-   * 1/01/2003 - 1/01/2004  
      * Instructor
        * Introduction to Physical Anthropology and Cultural Anthropology 
          * 2003 Fall & Winter Quarter 2004 Spring Quarter
 </p></details>
 
-<details><summary>Weller & Associates</summary><p>
+<details><summary>Weller & Associates - [1/01/2001 -  1/01/2006]</summary><p>
 
-   * 1/01/2001 -  1/01/2006  
      * Principal Investigator
        * Supervised archaeological field crews and conduct extensive archaeological fieldwork and analysis
        * Completed comprehensive surveys, testing, and data recovery projects
 </p></details>
 
-<details><summary>The United States Senate</summary><p>
+<details><summary>The United States Senate - [1/01/1995]</summary><p>
 
-    * 1/01/1995 
       * Intern
         * The U.S. Senator from Maryland, Barbara Mikulski
           * Attending hearings
