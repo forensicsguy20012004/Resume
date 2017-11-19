@@ -5,6 +5,7 @@
 <details><summary>Work Experience</summary><p>
 
 <details><summary>Nationwide Insurance</summary><p>
+
 1. Nationwide Insurance
    * 7/21/2014 - Current
      * Consultant - Project Architect (11/20/17 - Current)
