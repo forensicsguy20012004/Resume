@@ -56,8 +56,8 @@
           * Clerical duties    
 </p></details>          
           
-          
-#### Education  
+<details><summary>Education/summary><p>          
+
 The Ohio State University 
 * 2004
   * Masters of Arts [MA]
@@ -69,12 +69,17 @@ The Ohio State University
     * Criminology
   * Minors
     * Sociology
+</p></details>      
 
-#### Associations
+<details><summary>Associations/summary><p>    
+
 * Membership
   * SQL PASS 
+</p></details> 
 
-#### Publications
+<details><summary>Publications/summary><p>   
+
   * Dental Deformation
     * Agency: The U.S. Air Force
       * Internal paper utilized for instruction ... this is not an open publication
+</p></details>
