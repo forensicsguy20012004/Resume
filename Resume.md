@@ -4,11 +4,13 @@
 
 <details><summary>Work Experience</summary><p>
 
+<details><summary>Nationwide Insurance</summary><p>
 1. Nationwide Insurance
    * 7/21/2014 - Current
      * Consultant - Project Architect (11/20/17 - Current)
      * Consultant - Engineering (1/1/15 - 11/20/17)
      * Consultant - Run Operations (7/21/14 - 1/1/15)
+</p></details> 
 
 2. Dedicated Technologies Inc
    * 12/01/2013 - 07/21/2014  
