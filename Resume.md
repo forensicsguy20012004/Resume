@@ -13,41 +13,67 @@
      * Consultant - Run Operations (7/21/14 - 1/1/15)
 </p></details> 
 
+<details><summary>Dedicated Technologies Inc</summary><p>
+
 2. Dedicated Technologies Inc
    * 12/01/2013 - 07/21/2014  
      * Consultant - SQL DBA
+</p></details>
+
+<details><summary>Nationwide Energy Partners</summary><p>
 
 3. Nationwide Energy Partners
    * 7/01/2013 - 12/01/2013  
      * SQL DBA and Developer
+</p></details>
+
+<details><summary>Manley Deas Kochalski LLC</summary><p>
 
 4. Manley Deas Kochalski LLC
    * 5/01/2012 - 7/01/2013  
      * Senior Database Administrator
+</p></details>
+
+<details><summary>Columbus Bureau of Credit Columbus</summary><p>
 
 5. Columbus Bureau of Credit Columbus
    * 2/01/2011 - 5/01/2012  
      * Database Administrator
+</p></details>
+
+<details><summary>Travis Central Appraisal District</summary><p>
 
 6. Travis Central Appraisal District
    * 8/01/2010 - 2/01/2011  
      * Database Analyst
+</p></details>
+
+<details><summary>ScanData Systems,Inc</summary><p>
 
 7. ScanData Systems,Inc
    * 1/01/2006 - 7/01/2010  
      * Logistician and Database Administrator
+</p></details>
+
+<details><summary>The Ohio State University</summary><p>
 
 8. The Ohio State University
    * 1/01/2003 - 1/01/2004  
      * Instructor
        * Introduction to Physical Anthropology and Cultural Anthropology 
          * 2003 Fall & Winter Quarter 2004 Spring Quarter
+</p></details>
+
+<details><summary>Weller & Associates</summary><p>
 
 9. Weller & Associates
    * 1/01/2001 -  1/01/2006  
      * Principal Investigator
        * Supervised archaeological field crews and conduct extensive archaeological fieldwork and analysis
        * Completed comprehensive surveys, testing, and data recovery projects
+</p></details>
+
+<details><summary>The United States Senate</summary><p>
 
 10. The United States Senate
     * 1/01/1995 
@@ -57,6 +83,7 @@
           * Writing issue briefs
           * Acquiring research materials for the legislative staff
           * Clerical duties    
+</p></details>
 </p></details>          
           
 <details><summary>Education</summary><p>          
