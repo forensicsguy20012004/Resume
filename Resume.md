@@ -2,7 +2,7 @@
 ## Resume
 
 
-#### Work Experience
+<details><summary>Work Experience</summary><p>
 
 1. Nationwide Insurance
    * 7/21/2014 - Current
@@ -53,7 +53,10 @@
           * Attending hearings
           * Writing issue briefs
           * Acquiring research materials for the legislative staff
-          * Clerical duties      
+          * Clerical duties    
+</p></details>          
+          
+          
 #### Education  
 The Ohio State University 
 * 2004
