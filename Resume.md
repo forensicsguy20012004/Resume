@@ -56,7 +56,7 @@
           * Clerical duties    
 </p></details>          
           
-<details><summary>Education/summary><p>          
+<details><summary>Education</summary><p>          
 
 The Ohio State University 
 * 2004
@@ -71,13 +71,13 @@ The Ohio State University
     * Sociology
 </p></details>      
 
-<details><summary>Associations/summary><p>    
+<details><summary>Associations</summary><p>    
 
 * Membership
   * SQL PASS 
 </p></details> 
 
-<details><summary>Publications/summary><p>   
+<details><summary>Publications</summary><p>   
 
   * Dental Deformation
     * Agency: The U.S. Air Force
