@@ -68,7 +68,8 @@
           
 <details><summary>Education</summary><p>          
 
-The Ohio State University 
+<details><summary>The Ohio State University </summary><p>  
+
 * 2004
   * Masters of Arts [MA]
     * Specialization
@@ -79,6 +80,7 @@ The Ohio State University
     * Criminology
   * Minors
     * Sociology
+</p></details>   
 </p></details>      
 
 <details><summary>Associations</summary><p>    
