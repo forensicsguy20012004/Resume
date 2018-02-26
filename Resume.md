@@ -11,6 +11,9 @@
    * Database Services
       * Automation Engineer
          * Creater, owner, architect of SPARTAN
+   * OCA Winner
+      * 2017 - Q1
+      * 2017 - Q2
 * Consultant - Run Operations (7/21/14 - 1/1/15)
    * MSSQL DBA
 </p></details> 
