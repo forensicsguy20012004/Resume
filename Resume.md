@@ -7,6 +7,9 @@
 <details><summary>Nationwide Insurance - [7/21/2014 - Current]</summary><p>
 
 * Consultant - Project Architect (11/20/17 - Current)
+  * Supporting
+    * Agency
+    * Cloud/NGI
 * Consultant - Engineering (1/1/15 - 11/20/17)
    * Database Services
       * Automation Engineer
