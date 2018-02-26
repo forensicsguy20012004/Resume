@@ -110,7 +110,7 @@
 * 2001 
   * Majors
     * Criminology
-    * Criminology
+    * Anthropology
   * Minors
     * Sociology
 </p></details>   
