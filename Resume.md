@@ -20,7 +20,7 @@
       * 2017 - Q2
 * Consultant - Run Operations (7/21/14 - 1/1/15)
    * MSSQL DBA
-   * Creater designer and developer of SQL AutoBuild
+   * Creater, designer and developer of SQL AutoBuild
 </p></details> 
 
 <details><summary>Dedicated Technologies, Inc - [12/01/2013 - 07/21/2014]</summary><p>
