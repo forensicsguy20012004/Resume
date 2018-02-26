@@ -104,7 +104,9 @@
 * 2004
   * Masters of Arts [MA]
     * Specialization
-      * Physical Anthropology [Osteology]
+      * Physical Anthropology 
+        * Osteology
+        * Human Evolution
 * 2001 
   * Majors
     * Criminology
