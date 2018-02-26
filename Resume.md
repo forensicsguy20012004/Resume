@@ -17,12 +17,14 @@
 
 <details><summary>Dedicated Technologies, Inc - [12/01/2013 - 07/21/2014]</summary><p>
 
-* Consultant - SQL DBA
+* Consultant
+  * MSSQL DBA
+  * Automation Engineer
 </p></details>
 
 <details><summary>Nationwide Energy Partners - [7/01/2013 - 12/01/2013]</summary><p>
 
-* SQL DBA and Developer
+* MSSQL DBA and Developer
 </p></details>
 
 <details><summary>Manley Deas Kochalski, LLC - [5/01/2012 - 7/01/2013]</summary><p>
@@ -42,7 +44,7 @@
 
 <details><summary>ScanData Systems,Inc - [1/01/2006 - 7/01/2010]</summary><p>
 
-* Logistician and Database Administrator
+* Logistician and MSSQL Database Administrator
 </p></details>
 
 <details><summary>The Ohio State University - [1/01/2003 - 1/01/2004]</summary><p>
