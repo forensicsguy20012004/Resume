@@ -21,8 +21,7 @@
 <details><summary>Dedicated Technologies, Inc - [12/01/2013 - 07/21/2014]</summary><p>
 
 * DTI is an Information Technology consulting firm that is dedicated to providing outstanding technical services 
-* Position
-  * Consultant
+* Position: Consultant
     * MSSQL DBA
     * Automation Engineer
 </p></details>
@@ -30,36 +29,38 @@
 <details><summary>Nationwide Energy Partners - [7/01/2013 - 12/01/2013]</summary><p>
 
 * Provider of integrated energy services for residents, property managers, and developers of residential communities 
-* Position
-  * MSSQL DBA and Developer
+* Position: MSSQL DBA and Developer
 </p></details>
 
 <details><summary>Manley Deas Kochalski, LLC - [5/01/2012 - 7/01/2013]</summary><p>
 
 * MDK provides a full complement of default litigation and related services to its financial institution clients in the states of Ohio, Kentucky, Indiana and Illinois
-* Position
-  * Senior Database Administrator
+* Position: Senior Database Administrator
 </p></details>
 
 <details><summary>Columbus Bureau of Credit Columbus - [2/01/2011 - 5/01/2012]</summary><p>
 
 * Provides risk management solutions to customers in the business, government and nonprofit sectors which include: verification services, credit reporting services, collection services, property services and commercial services
-* Position
-  * Database Administrator
+* Position: Database Administrator
 </p></details>
 
 <details><summary>Travis Central Appraisal District - [8/01/2010 - 2/01/2011]</summary><p>
 
 * Performs property tax assessment for Travis County, Texas
-* Position
-  * Database Analyst
+* Position: Database Analyst
 </p></details>
 
-<details><summary>ScanData Systems,Inc - [1/01/2006 - 7/01/2010]</summary><p>
+<details><summary>ScanData Systems, Inc - [1/01/2006 - 7/01/2010]</summary><p>
 
 * Produces logistical software for large volume shippers country wide. ScanData also consults for large volume shippers giving advice about how to increase supply chain efficiencies 
-* Position
-  * Logistician and MSSQL Database Administrator
+* Position: Logistician and MSSQL Database Administrator
+    * Primary Clients
+      * The Limited Brands, Inc
+      * The Department of Defense [Army Records Management and Declassification Agency]
+    * Secondary Clients
+      * CVS/Caremark
+      * Scholastic Books
+      * QVC
 </p></details>
 
 <details><summary>The Ohio State University - [1/01/2003 - 1/01/2004]</summary><p>
