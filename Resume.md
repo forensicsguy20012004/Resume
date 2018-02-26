@@ -10,20 +10,26 @@
 * Consultant - Engineering (1/1/15 - 11/20/17)
    * Database Services
       * Automation Engineer
-         * Creater, owner, architect of SPARTAN
+         * Creater, developer, and architect of SPARTAN
+         * Coding in Node.JS, Python, PowerShell and other scripting languages 
+         * Experience with GIT and other repo systems
+         * Experience with Chef and DSC
+         * Experience implementing and using Continuous Integration and Continuous Delivery concepts and tools such as Github, Jenkins, and DSC
    * OCA Winner
       * 2017 - Q1
       * 2017 - Q2
 * Consultant - Run Operations (7/21/14 - 1/1/15)
    * MSSQL DBA
+   * Creater designer and developer of SQL AutoBuild
 </p></details> 
 
 <details><summary>Dedicated Technologies, Inc - [12/01/2013 - 07/21/2014]</summary><p>
 
 * DTI is an Information Technology consulting firm that is dedicated to providing outstanding technical services 
 * Position: Consultant
-    * MSSQL DBA
+  * Areas of Expertise
     * Automation Engineer
+    * MSSQL DBA and Developer
 </p></details>
 
 <details><summary>Nationwide Energy Partners - [7/01/2013 - 12/01/2013]</summary><p>
