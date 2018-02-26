@@ -8,7 +8,11 @@
 
 * Consultant - Project Architect (11/20/17 - Current)
 * Consultant - Engineering (1/1/15 - 11/20/17)
+   * Database Services
+      * Automation Engineer
+         * Creater, owner, architect of SPARTAN
 * Consultant - Run Operations (7/21/14 - 1/1/15)
+   * MSSQL DBA
 </p></details> 
 
 <details><summary>Dedicated Technologies, Inc - [12/01/2013 - 07/21/2014]</summary><p>
