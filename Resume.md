@@ -4,7 +4,7 @@
 
 <details><summary>Work Experience</summary><p>
 
-<details><summary>Nationwide Insurance - [7/21/2014 - Current]</summary><p>
+<details><summary>Nationwide Insurance - [7/21/2014 - Current] -- 3 years, 7 months</summary><p>
 
 * Consultant - Project Architect (11/20/17 - Current)
   * Supporting
@@ -26,7 +26,7 @@
    * Creater, designer and developer of SQL AutoBuild
 </p></details> 
 
-<details><summary>Dedicated Technologies, Inc - [12/01/2013 - 07/21/2014]</summary><p>
+<details><summary>Dedicated Technologies, Inc - [12/01/2013 - 07/21/2014] -- 7 months </summary><p>
 
 * DTI is an Information Technology consulting firm that is dedicated to providing outstanding technical services 
 * Position: Consultant
@@ -35,31 +35,31 @@
     * MSSQL DBA and Developer
 </p></details>
 
-<details><summary>Nationwide Energy Partners - [7/01/2013 - 12/01/2013]</summary><p>
+<details><summary>Nationwide Energy Partners - [7/01/2013 - 12/01/2013] -- 153 days</summary><p>
 
 * Provider of integrated energy services for residents, property managers, and developers of residential communities 
 * Position: MSSQL DBA and Developer
 </p></details>
 
-<details><summary>Manley Deas Kochalski, LLC - [5/01/2012 - 7/01/2013]</summary><p>
+<details><summary>Manley Deas Kochalski, LLC - [5/01/2012 - 7/01/2013] -- 426 days</summary><p>
 
 * MDK provides a full complement of default litigation and related services to its financial institution clients in the states of Ohio, Kentucky, Indiana and Illinois
 * Position: Senior Database Administrator
 </p></details>
 
-<details><summary>Columbus Bureau of Credit Columbus - [2/01/2011 - 5/01/2012]</summary><p>
+<details><summary>Columbus Bureau of Credit Columbus - [2/01/2011 - 5/01/2012] -- 455 days</summary><p>
 
 * Provides risk management solutions to customers in the business, government and nonprofit sectors which include: verification services, credit reporting services, collection services, property services and commercial services
 * Position: Database Administrator
 </p></details>
 
-<details><summary>Travis Central Appraisal District - [8/01/2010 - 2/01/2011]</summary><p>
+<details><summary>Travis Central Appraisal District - [8/01/2010 - 2/01/2011] -- 6 months </summary><p>
 
 * Performs property tax assessment for Travis County, Texas
 * Position: Database Analyst
 </p></details>
 
-<details><summary>ScanData Systems, Inc - [1/01/2006 - 7/01/2010]</summary><p>
+<details><summary>ScanData Systems, Inc - [1/01/2006 - 7/01/2010] -- 3 years, 11 months</summary><p>
 
 * Produces logistical software for large volume shippers country wide. ScanData also consults for large volume shippers giving advice about how to increase supply chain efficiencies 
 * Position: Logistician and MSSQL Database Administrator
@@ -72,14 +72,14 @@
       * QVC
 </p></details>
 
-<details><summary>The Ohio State University - [1/01/2003 - 1/01/2004]</summary><p>
+<details><summary>The Ohio State University - [1/01/2003 - 1/01/2004] -- 1 year</summary><p>
 
 * Instructor
     * Introduction to Physical Anthropology and Cultural Anthropology 
     * 2003 Fall & Winter Quarter 2004 Spring Quarter
 </p></details>
 
-<details><summary>Weller & Associates - [1/01/2001 -  1/01/2006]</summary><p>
+<details><summary>Weller & Associates - [1/01/2001 -  1/01/2006] -- 5 years</summary><p>
 
 * Principal Investigator
     * Supervised archaeological field crews and conduct extensive archaeological fieldwork and analysis
